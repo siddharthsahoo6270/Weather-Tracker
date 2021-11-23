@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{title}}</title>
+    <link rel="icon" href="./img/weather.png">
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <div class="main-content">
+        {{>header}}
+        <p>This is a weather tracker website was created by Siddharth Sahoo. It uses data from mapbox.com and weatherstack.com.</p>
+    </p>
+        <div class="about-me">
+            <div>
+                <img class="portrait" src="./img/siddharthsahoo.jpg" >
+            </div>
+            <div>
+                <h2>About me</h2>
+                <p> I am a resourceful Front End Web Developer bringing
+in-depth knowledge of latest technology trends to produce clean website design.Technically proficient and analytical problem solver with proper and focused aspect.</p>
+            </div>
+        </div>
+    <h2>About website</h2>
+    <p>This app provides the weather information based on location you enter in the search box under weather tab.</p>
+    </div>
+    {{>footer}}
+</body>
+</html>
