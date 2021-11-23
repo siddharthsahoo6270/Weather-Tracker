@@ -1,8 +1,8 @@
-## Node Js Weather App
+## Weather Tracker
 
 ![npm](https://img.shields.io/npm/l/express.svg) 
 
-Node Js Weather App is a simple App Providing weather information.
+Node Js Weather Trackeris a simple App Providing weather information.
 
 #### Prerequisite
 
