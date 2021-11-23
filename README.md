@@ -10,7 +10,7 @@ You need to have [NodeJS](https://nodejs.org/en/) installed in your machine.
 
 ### Install
 
-* Clone the repository.
+* Download the repository.
 * Go to the repository folder and run the following command in your terminal:
 
 ```
