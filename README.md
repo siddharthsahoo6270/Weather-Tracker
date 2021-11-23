@@ -46,7 +46,6 @@ Go to http://localhost:3000
 now you will get the weather app on your browser
 
 
-Node Js Weather App is open-sourced software licensed under the [MIT license]
 
 ```
 ```
